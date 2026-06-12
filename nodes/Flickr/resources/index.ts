@@ -1,0 +1,1 @@
+export { publicDescription } from './public';
